@@ -12,4 +12,4 @@ You may be interested in an alternate format of the algorithm:
   - This resolves a bug with the original where decimals were not supported.
 - Julia version: https://github.com/jbrightuniverse/HungarianAlg.jl
 - C version: https://github.com/jbrightuniverse/FastHungarianAlgorithm
-- Example with Voiceover: https://drive.google.com/file/d/1t7lBQuCuZ0_gSsyr21nTXBhlYDppvcx7/view
+- Visual Example with Voiceover (Arduino): https://drive.google.com/file/d/1t7lBQuCuZ0_gSsyr21nTXBhlYDppvcx7/view
